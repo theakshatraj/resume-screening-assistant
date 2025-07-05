@@ -4,8 +4,8 @@ import requests
 import datetime
 
 # --- CONFIGURATION ---
-API_KEY = "Vn2TDzh4Z1N-h7DPZN-fNQuZ3qCpp3mRNh4W4vvKzgL9"
-PROJECT_ID = "7e4176a3-cd6f-49fa-929c-df95936bb40c"
+API_KEY = "<your_api_key>"
+PROJECT_ID = "<your_project_id>"
 ENDPOINT = "https://us-south.ml.cloud.ibm.com"
 MODEL_ID = "google/flan-t5-xl"
 
